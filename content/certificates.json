@@ -93,6 +93,22 @@
       ],
       "image": "assets/uploads/b1be2976-770d-4fca-acff-710e23e6692e-.png",
       "certificate_link": "https://credentials.edx.org/credentials/7f124d298fe84af48bb562728890a2cf"
+    },
+    {
+      "progress": 100,
+      "icon": "fas fa-certificate",
+      "title": " Network Defense Essentials (NDE)",
+      "status": "Completed",
+      "description": " course of study offered by EC-Council, an online learning initiative of EC-Council.",
+      "topics": [
+        "Network security",
+        "firewalls",
+        "IDS/IPS",
+        "attack vectors",
+        "basic incident response"
+      ],
+      "image": "assets/uploads/8218dc01-ad84-42f7-b5d6-54eabfa4e7c6-.png",
+      "certificate_link": "https://courses.edx.org/certificates/671f0db9d0214c728fea97cf520ed6d0"
     }
   ]
 }
