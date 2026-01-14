@@ -1,59 +1,23 @@
 {
   "items": [
     {
-      "title": "Personal Landing Page",
-      "category": "Web Development",
-      "description": "My first responsive website built from scratch using HTML and CSS.",
-      "tech_stack": [
-        "HTML5",
-        "CSS3",
-        "Responsive"
-      ],
+      "live_link": "https://js-five-rho.vercel.app/",
+      "icon_class": "fas fa-laptop-code",
       "learnings": [
         "HTML semantic structure",
         "CSS Flexbox layout",
         "Mobile-first design"
       ],
-      "icon_class": "fas fa-laptop-code",
-      "image": "assets/uploads/test-project.png",
-      "live_link": "#",
-      "github_link": "#"
-    },
-    {
-      "title": "Simple Calculator",
-      "category": "JavaScript",
-      "description": "A functional calculator with basic operations built with vanilla JavaScript.",
+      "github_link": "#",
+      "title": "learncode with typescript ",
+      "image": "assets/uploads/bd126922-f723-4fb3-b245-970c3ea7b19e-.png",
+      "description": "best project for learning typescript from basic to advance ",
+      "category": "Web Development",
       "tech_stack": [
-        "JavaScript",
-        "CSS Grid",
-        "Events"
-      ],
-      "learnings": [
-        "DOM manipulation",
-        "Event handling",
-        "JavaScript functions"
-      ],
-      "icon_class": "fas fa-calculator",
-      "live_link": "#",
-      "github_link": "#"
-    },
-    {
-      "title": "Task Manager",
-      "category": "React Basics",
-      "description": "A To-Do app to manage daily tasks with add, delete, and mark as complete features.",
-      "tech_stack": [
-        "React",
-        "State",
-        "Props"
-      ],
-      "learnings": [
-        "React components",
-        "State management",
-        "Props passing"
-      ],
-      "icon_class": "fas fa-list-check",
-      "live_link": "#",
-      "github_link": "#"
+        "HTML5",
+        "CSS3",
+        "Responsive"
+      ]
     }
   ]
 }
