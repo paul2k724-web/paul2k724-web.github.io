@@ -14,7 +14,7 @@
         "high availability",
         "cost optimization"
       ],
-      "image": "/assets/uploads/01798422-ccac-4661-9225-451afaa10d39-.png",
+      "image": "assets/uploads/01798422-ccac-4661-9225-451afaa10d39-.png",
       "certificate_link": "https://credentials.edx.org/credentials/7eca67715e254ef796ca058bb65be429/",
       "icon": "fas fa-shield-halved"
     },
@@ -29,7 +29,7 @@
       ],
       "icon": "fab fa-aws",
       "certificate_link": "https://credentials.edx.org/credentials/c437ffc2fc944b3bb1642527f4395343/",
-      "image": "/assets/uploads/5cc09930-6bb4-47a3-ab5f-b14fb05ea561-.png"
+      "image": "assets/uploads/5cc09930-6bb4-47a3-ab5f-b14fb05ea561-.png"
     },
     {
       "title": "Computer Science for Artificial Intelligence",
@@ -42,7 +42,7 @@
         "deep learning"
       ],
       "icon": "fas fa-certificate",
-      "image": "/assets/uploads/5cc09930-6bb4-47a3-ab5f-b14fb05ea561-.png",
+      "image": "assets/uploads/5cc09930-6bb4-47a3-ab5f-b14fb05ea561-.png",
       "certificate_link": "https://credentials.edx.org/credentials/7008a554fade4b4599f1a0e2185753d1/"
     },
     {

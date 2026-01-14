@@ -13,6 +13,15 @@ document.addEventListener('DOMContentLoaded', function () {
     loadContent();
 });
 
+function fixImagePath(path) {
+    if (!path) return '';
+    // If it's an absolute path starting with /assets/uploads/, make it relative
+    if (path.startsWith('/assets/uploads/')) {
+        return path.substring(1);
+    }
+    return path;
+}
+
 async function loadContent() {
     // Load content independently with caching for instant load
     const contentTasks = [
@@ -117,7 +126,7 @@ function renderProjects(projects) {
         <div class="project-card glass-card animate-on-scroll" data-tilt>
             <div class="project-image">
                 ${project.image ?
-            `<img src="${project.image}" alt="${project.title}" class="project-img-content">` :
+            `<img src="${fixImagePath(project.image)}" alt="${project.title}" class="project-img-content">` :
             `<div class="project-placeholder">
                         <i class="${project.icon_class || 'fas fa-laptop-code'}"></i>
                     </div>`
@@ -161,7 +170,7 @@ function renderCertificates(certs) {
             </div>
             <div class="cert-icon">
                 ${cert.image ?
-                `<img src="${cert.image}" alt="${cert.title}" class="cert-image">` :
+                `<img src="${fixImagePath(cert.image)}" alt="${cert.title}" class="cert-image">` :
                 `<i class="${cert.icon || 'fas fa-certificate'}"></i>`
             }
             </div>
