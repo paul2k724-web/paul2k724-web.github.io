@@ -26,16 +26,32 @@
       "image": "/assets/uploads/5cc09930-6bb4-47a3-ab5f-b14fb05ea561-.png"
     },
     {
-      "title": "ISTQB Foundation",
-      "status": "Planned",
-      "description": "International software testing qualification",
-      "progress": 10,
+      "title": "Computer Science for Artificial Intelligence",
+      "status": "Completed",
+      "description": "a program offered by HarvardX, in collaboration with edX.",
+      "progress": 100,
       "topics": [
-        "Testing Fundamentals",
-        "Test Techniques",
-        "Test Management"
+        "Programming fundamentals (Python)",
+        "data structures and algorithms",
+        "computational thinking",
+        "probability and statistics",
+        "linear algebra basics",
+        "optimization methods",
+        "machine learning fundamentals",
+        "supervised learning",
+        "unsupervised learning",
+        "neural networks",
+        "deep learning",
+        "natural language processing",
+        "computer vision",
+        "reinforcement learning",
+        "AI ethics and responsible AI",
+        "model evaluation and validation",
+        "real-world AI applications"
       ],
-      "icon": "fas fa-certificate"
+      "icon": "fas fa-certificate",
+      "image": "/assets/uploads/5cc09930-6bb4-47a3-ab5f-b14fb05ea561-.png",
+      "certificate_link": "https://credentials.edx.org/credentials/7008a554fade4b4599f1a0e2185753d1/"
     }
   ]
 }
