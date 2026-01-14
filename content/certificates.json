@@ -109,6 +109,20 @@
       ],
       "image": "assets/uploads/8218dc01-ad84-42f7-b5d6-54eabfa4e7c6-.png",
       "certificate_link": "https://courses.edx.org/certificates/671f0db9d0214c728fea97cf520ed6d0"
+    },
+    {
+      "progress": 100,
+      "icon": "fas fa-certificate",
+      "title": "Digital Marketing and Customer Engagement",
+      "status": "Completed",
+      "description": "a program offered by Tecnológico de Monterrey, in collaboration with edX.",
+      "topics": [
+        "Digital marketing strategy",
+        "customer journey",
+        "engagement analytics"
+      ],
+      "certificate_link": "https://credentials.edx.org/credentials/8ac8014faf4b4ffcb9d9399c4db996d4",
+      "image": "assets/uploads/b14abb50-efc6-4ead-b2f1-cae03977f2d9-.png"
     }
   ]
 }
