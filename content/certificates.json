@@ -6,7 +6,13 @@
       "description": "a program offered by AWS, in collaboration with edX.",
       "progress": 100,
       "topics": [
-        "many"
+        "AWS core services",
+        "cloud architecture",
+        "networking",
+        "security",
+        "scalability",
+        "high availability",
+        "cost optimization"
       ],
       "image": "/assets/uploads/01798422-ccac-4661-9225-451afaa10d39-.png",
       "certificate_link": "https://credentials.edx.org/credentials/7eca67715e254ef796ca058bb65be429/",
@@ -31,14 +37,23 @@
       "description": "a program offered by HarvardX, in collaboration with edX.",
       "progress": 100,
       "topics": [
-        "Python",
-        "algorithms",
-        "machine learning",
+        "Programming fundamentals (Python)",
+        "data structures and algorithms",
+        "computational thinking",
+        "probability and statistics",
+        "linear algebra basics",
+        "optimization methods",
+        "machine learning fundamentals",
+        "supervised learning",
+        "unsupervised learning",
         "neural networks",
         "deep learning",
-        "NLP",
+        "natural language processing",
         "computer vision",
-        "AI ethics"
+        "reinforcement learning",
+        "AI ethics and responsible AI",
+        "model evaluation and validation",
+        "real-world AI applications"
       ],
       "icon": "fas fa-certificate",
       "image": "/assets/uploads/5cc09930-6bb4-47a3-ab5f-b14fb05ea561-.png",
