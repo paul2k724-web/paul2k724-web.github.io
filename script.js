@@ -417,8 +417,6 @@ function initContactForm() {
 
     if (form) {
         form.addEventListener('submit', (e) => {
-            e.preventDefault();
-
             const name = document.getElementById('name').value;
             const email = document.getElementById('email').value;
             const subject = document.getElementById('subject').value;
@@ -429,6 +427,7 @@ function initContactForm() {
             if (name.trim().length < 2) {
                 showError('name', 'Please enter a valid name');
                 isValid = false;
+                e.preventDefault();
             } else {
                 clearError('name');
             }
@@ -436,6 +435,7 @@ function initContactForm() {
             if (!isValidEmail(email)) {
                 showError('email', 'Please enter a valid email');
                 isValid = false;
+                e.preventDefault();
             } else {
                 clearError('email');
             }
@@ -443,6 +443,7 @@ function initContactForm() {
             if (subject.trim().length < 3) {
                 showError('subject', 'Please enter a subject');
                 isValid = false;
+                e.preventDefault();
             } else {
                 clearError('subject');
             }
@@ -450,52 +451,16 @@ function initContactForm() {
             if (message.trim().length < 10) {
                 showError('message', 'Please enter a longer message');
                 isValid = false;
+                e.preventDefault();
             } else {
                 clearError('message');
             }
 
             if (isValid) {
                 const button = form.querySelector('.btn-submit');
-                const originalText = button.querySelector('.btn-text').textContent;
                 button.querySelector('.btn-text').textContent = 'Sending...';
                 button.disabled = true;
-
-                // Send to FormSubmit.co
-                const formData = new FormData(form);
-
-                fetch(form.action, {
-                    method: 'POST',
-                    body: formData,
-                    headers: {
-                        'Accept': 'application/json'
-                    }
-                })
-                    .then(response => {
-                        if (response.ok) {
-                            button.querySelector('.btn-text').textContent = 'Message Sent!';
-                            button.style.background = 'linear-gradient(135deg, #00ff88 0%, #00cc6a 100%)';
-                            form.reset();
-
-                            setTimeout(() => {
-                                button.querySelector('.btn-text').textContent = originalText;
-                                button.style.background = '';
-                                button.disabled = false;
-                            }, 3000);
-                        } else {
-                            throw new Error('Form submission failed');
-                        }
-                    })
-                    .catch(error => {
-                        button.querySelector('.btn-text').textContent = 'Error! Try again.';
-                        button.style.background = 'var(--error-color, #ff4757)';
-                        console.error('Submission error:', error);
-
-                        setTimeout(() => {
-                            button.querySelector('.btn-text').textContent = originalText;
-                            button.style.background = '';
-                            button.disabled = false;
-                        }, 3000);
-                    });
+                // Form will submit normally - FormSubmit.co will handle it
             }
         });
     }
