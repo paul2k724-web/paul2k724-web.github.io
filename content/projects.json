@@ -18,6 +18,17 @@
         "CSS3",
         "Responsive"
       ]
+    },
+    {
+      "icon_class": "fas fa-laptop-code",
+      "title": "Qaforge",
+      "category": "Qa automation ",
+      "description": "Production-grade Playwright E2E automation framework for an e-commerce app, showcasing reliable tests, anti-flake design, and CI/CD integration while validating real user flows like cart and checkout.",
+      "image": "assets/uploads/1000075014.jpg",
+      "tech_stack": [
+        "Checkinreadme"
+      ],
+      "github_link": "https://github.com/paul2k724-web/qa1"
     }
   ]
 }
