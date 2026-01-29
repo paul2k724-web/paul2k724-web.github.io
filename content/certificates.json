@@ -138,6 +138,23 @@
       ],
       "image": "assets/uploads/95a87e0f-6de6-470a-9840-7dfd5cfd6c86-.png",
       "certificate_link": "https://www.theforage.com/completion-certificates/pmnMSL4QiQ9JCgE3W/kkE9HyeNcw6rwCRGw_pmnMSL4QiQ9JCgE3W_ifPG3o5qPCABErKGs_1752945946476_completion_certificate.pdf"
+    },
+    {
+      "progress": 109,
+      "icon": "fas fa-certificate",
+      "certificate_link": "https://courses.edx.org/certificates/a0790eba669a499da8ed18a7c4ec2c76?_gl=1*1ma7sp9*_gcl_au*MTM3NTE5NTkyLjE3Njc3NjU4MDc.*_ga*MTkxMDE1MzQwOS4xNzY3NzY1ODA3*_ga_D3KS4KMDT0*czE3Njk2NjY5NzckbzMxJGcxJHQxNzY5NjY4NDc4JGo1JGwwJGgw",
+      "title": "Back-end Application Development with Node.js and Express",
+      "status": "Completed",
+      "description": "Backend Developer, Node.js, Express.js, REST APIs, Middleware, Authentication, CRUD Operations, MVC Architecture, IBM Certified, Open to Backend and Full-Stack Roles",
+      "topics": [
+        "Node.js",
+        "Express.js",
+        "Backend Architecture",
+        "Server-Side Programming",
+        "RESTful APIs",
+        "MVC Architecture"
+      ],
+      "image": "assets/uploads/3a378797-537b-4e33-8641-7a8a30aed60d-.png"
     }
   ]
 }
