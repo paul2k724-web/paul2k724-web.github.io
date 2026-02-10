@@ -14,7 +14,7 @@
         "high availability",
         "cost optimization"
       ],
-      "image": "",
+      "image": "assets/uploads/95a87e0f-6de6-470a-9840-7dfd5cfd6c86-.png",
       "certificate_link": "https://credentials.edx.org/credentials/7eca67715e254ef796ca058bb65be429/",
       "icon": "fas fa-shield-halved"
     },
@@ -29,7 +29,7 @@
       ],
       "icon": "fab fa-aws",
       "certificate_link": "https://credentials.edx.org/credentials/c437ffc2fc944b3bb1642527f4395343/",
-      "image": ""
+      "image": "assets/uploads/5cc09930-6bb4-47a3-ab5f-b14fb05ea561-.png"
     },
     {
       "title": "Computer Science for Artificial Intelligence",
@@ -42,13 +42,13 @@
         "deep learning"
       ],
       "icon": "fas fa-certificate",
-      "image": "",
+      "image": "assets/uploads/5cc09930-6bb4-47a3-ab5f-b14fb05ea561-.png",
       "certificate_link": "https://credentials.edx.org/credentials/7008a554fade4b4599f1a0e2185753d1/"
     },
     {
       "progress": 100,
       "icon": "fas fa-certificate",
-      "image": "",
+      "image": "assets/uploads/3a378797-537b-4e33-8641-7a8a30aed60d-.png",
       "title": "Information Technology (IT) Support PC",
       "status": "Completed",
       "description": "a program offered by IBM, in collaboration with edX.",
@@ -68,7 +68,7 @@
       "title": "AI Engineer for Developers Associate certificate",
       "status": "Completed",
       "description": "Ai engineering for DEVS cert from datacamp",
-      "image": "",
+      "image": "assets/uploads/85c150a9-5cbc-45d0-b89c-61663f1ef5fb-.png",
       "topics": [
         "Python",
         "SQL",
@@ -91,7 +91,7 @@
         "open-source collaboration",
         "software development best practices"
       ],
-      "image": "",
+      "image": "assets/uploads/b318fe84-c0e7-42b1-9dcb-796604a146a8-.png",
       "certificate_link": "https://credentials.edx.org/credentials/7f124d298fe84af48bb562728890a2cf"
     },
     {
@@ -107,7 +107,7 @@
         "attack vectors",
         "basic incident response"
       ],
-      "image": "",
+      "image": "assets/uploads/8218dc01-ad84-42f7-b5d6-54eabfa4e7c6-.png",
       "certificate_link": "https://courses.edx.org/certificates/671f0db9d0214c728fea97cf520ed6d0"
     },
     {
@@ -122,7 +122,7 @@
         "engagement analytics"
       ],
       "certificate_link": "https://credentials.edx.org/credentials/8ac8014faf4b4ffcb9d9399c4db996d4",
-      "image": ""
+      "image": "assets/uploads/b14abb50-efc6-4ead-b2f1-cae03977f2d9-.png"
     },
     {
       "progress": 100,
@@ -136,7 +136,7 @@
         "scalability concepts",
         "real-world architectural decision-making"
       ],
-      "image": "",
+      "image": "assets/uploads/70023454-35b1-4585-950d-64f03c6941b3-.png",
       "certificate_link": "https://www.theforage.com/completion-certificates/pmnMSL4QiQ9JCgE3W/kkE9HyeNcw6rwCRGw_pmnMSL4QiQ9JCgE3W_ifPG3o5qPCABErKGs_1752945946476_completion_certificate.pdf"
     },
     {
@@ -154,13 +154,13 @@
         "RESTful APIs",
         "MVC Architecture"
       ],
-      "image": ""
+      "image": "assets/uploads/3a378797-537b-4e33-8641-7a8a30aed60d-.png"
     },
     {
       "progress": 100,
       "icon": "fas fa-certificate",
       "certificate_link": "https://courses.edx.org/certificates/48275a603c4640fd8879cd294f61e373?_gl=1*1nap5p8*_gcl_au*MTM3NTE5NTkyLjE3Njc3NjU4MDc.*_ga*MTkxMDE1MzQwOS4xNzY3NzY1ODA3*_ga_D3KS4KMDT0*czE3Njk2NjY5NzckbzMxJGcxJHQxNzY5NjY4NDc4JGo1JGwwJGgw",
-      "image": "",
+      "image": "assets/uploads/3a378797-537b-4e33-8641-7a8a30aed60d-.png",
       "title": "Developing Front End Apps with React",
       "status": "Completed",
       "description": "Frontend Developer, React, JavaScript, Python, IBM Certified, API Integration, Clean UI, Scalable Components, GitHub Projects, Problem Solving",
