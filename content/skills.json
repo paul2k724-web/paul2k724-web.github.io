@@ -1,17 +1,20 @@
 {
     "items": [
-        {
-            "title": "Cybersecurity Basics",
-            "category_id": "cyber",
-            "description": "Learning to understand threats, vulnerabilities, and protection methods",
-            "icon": "fas fa-shield-halved",
-            "list_items": [
-                "Network Security Fundamentals",
-                "Basic Threat Analysis",
-                "Security Best Practices",
-                "Intro to Ethical Hacking"
-            ],
-            "progress": 25
+        
+           {
+  "title": "AI AUTOMATION AGENTS",
+  "category_id": "ai",
+  "description": "Learning to build AI-powered automation agents, workflows, and intelligent systems.",
+  "icon": "fas fa-robot",
+  "list_items": [
+    "LLM Fundamentals",
+    "Prompt Engineering",
+    "Building AI Agents",
+    "Workflow Automation (Zapier / APIs)",
+    "LangChain Basics"
+  ],
+  "progress": 20
+
         },
         {
             "title": "Web Dev Basics",
